@@ -1,0 +1,88 @@
+[
+    {
+        "id" : 1,
+        "name" : "Node.js",
+        "title":"Lorem, ipsum dolor sit amet consecteur advocating elit",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/premium-vector/web-development-modern-flat-design-vector-concept_199064-2273.jpg?w=740"
+
+    },
+    
+    {
+        "id" : 2,
+        "name" : "Laravel",
+        "title":"Lorem, ipsum dolor sit amet consecteur advocating elit",
+        "price":20,
+        "category":"Free",
+        "image":"https://img.freepik.com/premium-vector/web-development-modern-flat-design-vector-concept_199064-2273.jpg?w=740"
+
+    },
+    
+    {
+        "id" : 3,
+        "name" : "Django",
+        "title":"Lorem, ipsum dolor sit amet consecteur advocating elit",
+        "price":50,
+        "category":"Free",
+        "image":"https://img.freepik.com/premium-vector/web-development-modern-flat-design-vector-concept_199064-2273.jpg?w=740"
+
+    },
+    
+    {
+        "id" : 4,
+        "name" : "Spring Boot",
+        "title":"Lorem, ipsum dolor sit amet consecteur advocating elit",
+        "price":100,
+        "category":"Free",
+        "image":"https://img.freepik.com/premium-vector/web-development-modern-flat-design-vector-concept_199064-2273.jpg?w=740"
+
+    },
+    
+    {
+        "id" : 5,
+        "name" : "C++",
+        "title":"Lorem, ipsum dolor sit amet consecteur advocating elit",
+        "price":200,
+        "category":"Food",
+        "image":"https://img.freepik.com/premium-vector/web-development-modern-flat-design-vector-concept_199064-2273.jpg?w=740"
+
+    },
+    {
+        "id" : 6,
+        "name" : "Java",
+        "title":"Lorem, ipsum dolor sit amet consecteur advocating elit",
+        "price":200,
+        "category":"Free",
+        "image":"https://img.freepik.com/premium-vector/web-development-modern-flat-design-vector-concept_199064-2273.jpg?w=740"
+
+
+    },
+    {
+        "id" : 8,
+        "name" : "Javascript",
+        "title":"Lorem, ipsum dolor sit amet consecteur advocating elit",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/premium-vector/web-development-modern-flat-design-vector-concept_199064-2273.jpg?w=740"
+
+    },
+    {
+        "id" : 9,
+        "name" : "Python",
+        "title":"Lorem, ipsum dolor sit amet consecteur advocating elit",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/premium-vector/web-development-modern-flat-design-vector-concept_199064-2273.jpg?w=740"
+
+    },
+    {
+        "id" : 10,
+        "name" : "C#",
+        "title":"Lorem, ipsum dolor sit amet consecteur advocating elit",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/premium-vector/web-development-modern-flat-design-vector-concept_199064-2273.jpg?w=740"
+
+    }
+]
